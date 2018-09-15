@@ -6,3 +6,5 @@ https://www.instructables.com/id/How-To-Create-An-Android-App-With-Android-Studi
 https://www.youtube.com/watch?v=V0AETAjxqLI
 https://www.c-sharpcorner.com/article/how-to-be-working-with-multiple-activities-and-navigate-the-activities-in-androi/
 https://github.com/Miserlou/Android-SDK-Samples/blob/master/ApiDemos/src/com/example/android/apis/graphics/FingerPaint.java
+https://www.youtube.com/watch?v=6RtF_mbHcEc
+https://androidride.com/what-is-setcontentview-in-android/
