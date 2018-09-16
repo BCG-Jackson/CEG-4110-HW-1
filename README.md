@@ -9,8 +9,7 @@ The purpose of this application is to complete homework assignment 1 for CEG 411
 
 The first part of the assignment is to create a single UI screen having one text field, and one button. A user can type into this text field and their typed text will be displayed in the field. The function of the button is to randomize the color of the text in the field. I have labled this button "CHANGE COLOR". When this button is pressed, a lable beneath the button beomes visible and displayes the random color both as rgb values and as a hex color value. 
 
-[Imgur](https://i.imgur.com/SkqW1p1.png)
-
+![Imgur](https://i.imgur.com/SkqW1p1.png "Part 1")
 
 This part of the application is the main activity. The activity can be changed by clicking the button labled "TOGGLE ACTIVITY".
 
